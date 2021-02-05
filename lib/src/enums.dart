@@ -23,5 +23,5 @@ class SunmiSize {
   static const lg = SunmiSize._internal(36);
   static const xl = SunmiSize._internal(42);
   static const xxl = SunmiSize._internal(48);
-  static Function setSize = (int val) => {SunmiSize._internal(val)};
+  static const xxxl = SunmiSize._internal(54);
 }
